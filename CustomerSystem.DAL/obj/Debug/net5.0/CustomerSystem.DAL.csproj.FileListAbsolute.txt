@@ -1,0 +1,15 @@
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\bin\Debug\net5.0\CustomerSystem.DAL.deps.json
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\bin\Debug\net5.0\CustomerSystem.DAL.runtimeconfig.json
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\bin\Debug\net5.0\CustomerSystem.DAL.runtimeconfig.dev.json
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\bin\Debug\net5.0\CustomerSystem.DAL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\bin\Debug\net5.0\ref\CustomerSystem.DAL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\bin\Debug\net5.0\CustomerSystem.DAL.pdb
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.csproj.AssemblyReference.cache
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.AssemblyInfoInputs.cache
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.AssemblyInfo.cs
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.csproj.CoreCompileInputs.cache
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\ref\CustomerSystem.DAL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.pdb
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.DAL\obj\Debug\net5.0\CustomerSystem.DAL.genruntimeconfig.cache

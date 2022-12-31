@@ -1,0 +1,15 @@
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\bin\Debug\net5.0\CustomerSystem.BL.deps.json
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\bin\Debug\net5.0\CustomerSystem.BL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\bin\Debug\net5.0\ref\CustomerSystem.BL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\bin\Debug\net5.0\CustomerSystem.BL.pdb
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\bin\Debug\net5.0\CustomerSystem.DAL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\bin\Debug\net5.0\CustomerSystem.DAL.pdb
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.csproj.AssemblyReference.cache
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.AssemblyInfoInputs.cache
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.AssemblyInfo.cs
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.csproj.CoreCompileInputs.cache
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.csproj.CopyComplete
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\ref\CustomerSystem.BL.dll
+E:\FCAIH\course\interview tasks\retail technology company task\backend\CustomerSystem.BL\obj\Debug\net5.0\CustomerSystem.BL.pdb
