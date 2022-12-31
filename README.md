@@ -13,5 +13,5 @@ Used Design Patterns:
 -Dependency Inversion
 
 For Running :
-Clone our Repo And Open It
-Run The add-migration & upadate-database commands in package manager console
+1- Clone our Repo And Open It
+2- Run The add-migration & upadate-database commands in package manager console
