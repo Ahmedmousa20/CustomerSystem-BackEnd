@@ -1,5 +1,5 @@
 # CustomerSysem-BackEnd
-Its A Backend Application For A Customer System
+Its A Backend Application For A Customer System ,that we can manipulate on cutomers data 
 
 visit FrontEnd Code Here : https://github.com/Ahmedmousa20/CustomerSystemUI
 
